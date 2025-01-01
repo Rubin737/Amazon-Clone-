@@ -63,11 +63,11 @@ The **Amazon Clone** is a feature-rich e-commerce web application designed to si
 ## ScreenShots
 
 - **Img 1:** Main page
-![main-page]()
+![main-page](https://github.com/Rubin737/Amazon-Clone-/blob/main/Screenshots/mainPage.png?raw=true)
 - **Img 1:** Checkout page
-![check-page]()
+![check-page](https://github.com/Rubin737/Amazon-Clone-/blob/main/Screenshots/checkoutPage.png?raw=true)
 - **Img 1:** Orders page
-![order-page]()
+![order-page](https://github.com/Rubin737/Amazon-Clone-/blob/main/Screenshots/OrdersPage.png?raw=true)
 - **Img 1:** Tracking page
-![track-page]()
+![track-page](https://github.com/Rubin737/Amazon-Clone-/blob/main/Screenshots/TrackingPage.png?raw=true)
 
